@@ -42,9 +42,9 @@ You have to pay attention to these small things. I'll try to point out as many a
 
 </span>
 
-There is a very high likelihood that you know what a sequence of real numbers is; and that if two sequences are such that $\{a_n\}_n \rightarrow A$ and $\{b_n\}_n \rightarrow B$, then the sequence given by their sum has the property $\{a_n + b_n\}_n \rightarrow A + B$
+There is a very high likelihood that you know what a sequence of real numbers is; and that if two sequences are such that $ \{ a_n \} _n \rightarrow A$ and $ \{ b_n \} _n \rightarrow B$, then the sequence given by their sum has the property $ \{ a_n + b_n \} _n \rightarrow A + B$
 
-Just for clarity, $\{a_n\}_n \rightarrow A$ signifies that the sequence $\{a_n\}$ converges to the number $A$.
+Just for clarity, $ \{ a_n \} _n \rightarrow A$ signifies that the sequence $ \{ a_n \}$ converges to the number $A$.
 
 Consider, then, the following problem.
 
@@ -64,7 +64,7 @@ but it makes no sense.
 
 Or, I could be gentle, and write out
 
-**Definition. Convergence of a Sequence** Say a sequence $\{a_n\}$ converges to $A$ if for every $\varepsilon > 0$, some infinite tail of the sequence falls within $\varepsilon$ distance of $A$.
+**Definition. Convergence of a Sequence** Say a sequence $ \{ a_n \} $ converges to $A$ if for every $\varepsilon > 0$, some infinite tail of the sequence falls within $\varepsilon$ distance of $A$.
 
 Much cleaner, much more intuitive without the unnecessary symbols. Given a positive number $\varepsilon$, all points of the sequence beyond some $N$ fall within $\varepsilon$ distance of the limit. That gives you a much clearer picture than whatever unholy amalgamation of symbols I wrote above.
 
@@ -75,9 +75,9 @@ Now that I have the definition, I can complete steps 1 and 2 of the overall outl
 1. Start with what's given
 1. Use definitions
 
-So, our proof stats somewhat like
+So, our proof starts somewhat like
 
-Let $\{a_n\} \rightarrow A$ and $\{b_n\} \rightarrow B$. Then, given $\epsilon_1, \epsilon_2 > 0$ there are natural numbers $N_1, N_2$ such that $n \geq N_1 \implies |a_n - A| < \epsilon_1$, and $n \geq N_2 \implies |b_n - B| < \epsilon_2$
+Let $ \{ a_n \} \rightarrow A$ and $ \{ b_n \} \rightarrow B$. Then, given $\epsilon_1, \epsilon_2 > 0$ there are natural numbers $N_1, N_2$ such that $n \geq N_1 \implies |a_n - A| < \epsilon_1$, and $n \geq N_2 \implies |b_n - B| < \epsilon_2$
 
 Step 3 is to start working towards what you want. I want to show that given an $\epsilon > 0$, the existence of an $N$ such that $n \geq N \implies |(a_n + b_n) - (A + B)| < \epsilon$
 

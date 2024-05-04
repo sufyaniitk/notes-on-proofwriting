@@ -38,9 +38,13 @@ Note that to start with an even number, I first have to know what an even number
 Now that I know what an even integer (number) is, I'm ready to write the proof.
 
 **Proof.** Let $n$ be an even integer. (<- 1. starting with what's given)
+
 Then, $n = 2m$ for some integer $m$ (<- 2. using the definition)
+
 Thus, $n^2 = (2m)^2 = 4m^2$ (<- 3. intermediate step, depends on problem)
+
 Thus, $n^2 = 2(2m^2)$ (<- 4. key insight to the problem)
+
 i.e. there is an integer $m' = 2m^2$ for which $n^2 = 2m'$ (<- 5. restating my conclusion in terms of the definition)
 
 Therefore, $n^2$ is even. $\square$

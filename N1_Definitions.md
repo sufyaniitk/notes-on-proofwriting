@@ -58,6 +58,7 @@ If I don't specify that, then I have failed to use the definition correctly. **A
 Step 3 is algebraic manipulation. I want you to note I'm borrowing properties of integers when I say $(ab)^2 = a^2b^2$ (this does not hold in matrices, for example). Although **ideally I should specify this**, it is not really necessary because of two reasons:
 
 i) multiplication of integers is something very, very basic, and does not really require clarification (ie, you don't need to specify you're using the commutativity of integer multiplication. You can just do it).
+
 ii) It is abundantly clear from context what you're doing
 
 Again, in more complicated problems, you may have a much longer step 3 or multiple step 3s. That is, you have rephrased what you're given in more mathematical terms, and are now working toward the conclusion. This may mean adding and subtracting the same quantity, considering a subset, exploiting some property etc (we'll see examples). But the overall motive is try to work towards what you want to conclude.
@@ -72,7 +73,7 @@ What's left is step 5. You would very often see proofs omit this step and just s
 
 ---
 
-The overarching goal of this doc specifically was to introduce you to how definitions work and the overall structure of direct proofs. There are a lot more logical nuances to this discussion, but I'm omitting them at the risk of infodumpimg. We will cover them slowly over these notes, but I'm not guaranteeing self-sufficiency.
+The overarching goal of this doc specifically was to introduce to you how definitions work and the overall structure of direct proofs. There are a lot more logical nuances to this discussion, but I'm omitting them at the risk of infodumping. We will cover them slowly over these notes, but I'm not guaranteeing self-sufficiency.
 
 Read the simple 5 line proof again and again and really try to grasp what is going on. In the next doc, I'll point out a logical nuance in this proof and tackle a canonical example in real analysis - that the limit of a sum sequence is the sum of individual limits.
 

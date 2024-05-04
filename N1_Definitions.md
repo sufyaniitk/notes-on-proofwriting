@@ -8,7 +8,7 @@
 
 <span style='font-family: Bahnschrift;'>
 
-A *definition* is a way of assigning names to mathematical objects for simplicity. For instance, we use the phrase *"function from set A to set B"* to mean *"A subset $f$ of the Cartesian Product $A \times B$ such that for every $a \in A$ there is a $b \in B$ with $(a,b) \in f$, and if $(a, b_1) \in f$, $(a, b_2) \in f$ then $b_1 = b_2$"*
+A *definition* is a way of assigning names to mathematical objects for simplicity. For instance, we use the phrase *"function from set A to set B"* to mean *"A subset* $f$ *of the Cartesian Product* $A \times B$ *such that for every* $a \in A$ *there is a* $b \in B$ *with* $(a,b) \in f$, *and if* $(a, b_1) \in f$, $(a, b_2) \in f$ *then* $b_1 = b_2$"
 
 Now we used the terms *Cartesian Product* and *subset* which further have their own definitions. If we replace those in the definition for a function, and then replace the definiton of a function in that for say, a differentiable function, then things get very complicated very fast.
 

@@ -30,7 +30,6 @@ Compare this to an implication. Given a statement $p \implies q$, and if you're 
 
 In case of logical equivalence, given either, I can conclude the other. Given the negation of either, I can conclude the negation of the other. That is to say, $p \implies q$ and $q \implies p$ both hold.
 
----
 
 This gives us two things - a shorthand $p \iff q$ for logical equivalence, and a way of proving it. To show two statements are logically equivalent, it suffices to show they imply each other.
 
@@ -44,9 +43,11 @@ As a matter of fact, you use equivalent statements all the time! A few examples 
 
 You have encountered, and used, these logical equivalences *multiple* times. If any one statement holds, its analogue does. If any one statement fails, its analogue does. We will spend time proving a few of these and looking at some techniques in the process.
 
+---
+
 The term 'if and only if' comes from a recognition of sufficient and necessary conditions.
 
-Suppose the implication $p \implies q$ holds. Then I can say $q$ happens if $p$ happens, and it should make sense to you. Here, we call $p$ a sufficient condition for $q$ to happen. i.e, $p$ can 'trigger' $q$ so to say. However, $q$ may have other triggers - so it is not necessary that if $q$ happens $p$ must have happened. Say, if it rains, the ground is wet. But if the ground is wet, it could be from a pipe burst.
+Suppose the implication $p \implies q$ holds. Then I can say $q$ happens if $p$ happens, and it should make sense to you. Here, we call $p$ a *sufficient* condition for $q$ to happen. i.e, $p$ can 'trigger' $q$ so to say. However, $q$ may have other triggers - so it is not necessary that if $q$ happens $p$ must have happened. Say, if it rains, the ground is wet. But if the ground is wet, it could be from a pipe burst.
 
 However, I can *also* say that $p$ happens **only if** $q$ happens - i.e., if $\neg q$ happens, $p$ cannot happen at all. In this case we call $q$ a *necessary* condition for $p$ to happen - i.e, $q$ must happen for $p$ to happen, but it doesn't guarantee that $p$ will happen. i.e, if the ground is not wet, it is not possible that it has rained. But again, if the ground is wet, you can't conclude that it has rained.
 

@@ -42,9 +42,9 @@ You have to pay attention to these small things. I'll try to point out as many a
 
 </span>
 
-There is a very high likelihood that you know what a sequence of real numbers is; and that if two sequences are such that $ \{a_n\} \rightarrow A$ and $ \{b_n\} \rightarrow B$, then the sequence given by their sum has the property $ \{a_n + b_n\} \rightarrow A + B$
+There is a very high likelihood that you know what a sequence of real numbers is; and that if two sequences are such that $\{a_n\} \rightarrow A$ and $\{b_n\} \rightarrow B$, then the sequence given by their sum has the property $\{a_n + b_n\} \rightarrow A + B$
 
-Just for clarity, $ \{a_n\} \rightarrow A$ signifies that the sequence $ \{a_n\}$ converges to the number $A$.
+Just for clarity, $\{a_n\} \rightarrow A$ signifies that the sequence $\{a_n\}$ converges to the number $A$.
 
 Consider, then, the following problem.
 
@@ -64,7 +64,7 @@ but it makes no sense.
 
 Or, I could be gentle, and write out
 
-**Definition. Convergence of a Sequence** Say a sequence $ \{a_n\} $ converges to $A$ if for every $\varepsilon > 0$, some infinite tail of the sequence falls within $\varepsilon$ distance of $A$.
+**Definition. Convergence of a Sequence** Say a sequence $\{a_n\} $ converges to $A$ if for every $\varepsilon > 0$, some infinite tail of the sequence falls within $\varepsilon$ distance of $A$.
 
 Much cleaner, much more intuitive without the unnecessary symbols. Given a positive number $\varepsilon$, all points of the sequence beyond some $N$ fall within $\varepsilon$ distance of the limit. That gives you a much clearer picture than whatever unholy amalgamation of symbols I wrote above.
 

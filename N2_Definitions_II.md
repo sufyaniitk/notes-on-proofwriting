@@ -64,7 +64,7 @@ but it makes no sense.
 
 Or, I could be gentle, and write out
 
-**Definition. Convergence of a Sequence** Say a sequence $\{a_n\} $ converges to $A$ if for every $\varepsilon > 0$, some infinite tail of the sequence falls within $\varepsilon$ distance of $A$.
+**Definition. Convergence of a Sequence** Say a sequence $\{a_n\}$ converges to $A$ if for every $\varepsilon > 0$, some infinite tail of the sequence falls within $\varepsilon$ distance of $A$.
 
 Much cleaner, much more intuitive without the unnecessary symbols. Given a positive number $\varepsilon$, all points of the sequence beyond some $N$ fall within $\varepsilon$ distance of the limit. That gives you a much clearer picture than whatever unholy amalgamation of symbols I wrote above.
 

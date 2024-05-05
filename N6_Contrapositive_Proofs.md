@@ -17,6 +17,7 @@ We discussed how an implication is logically equivalent to its contrapositive. I
 Let's visit our ~~old~~ new friend again. 
 
 **Q. Show that an integer** $n$ **is even iff** $n^2$ **is even**
+
 **Proof**. $(\rightarrow)$ Showed earlier.
 
 Let's stop there for a second. When I use the notation $(\rightarrow)$ or $(\leftarrow)$, it is to signify what direction of the bi-implication I'm proving. The direction is literally determined by what statement is written before the *iff*. If instead my problem was **Given an integer** $n$ **show that** $n^2$ **is even iff** $n$ **is even**; I would've used a left arrow instead.

@@ -1,4 +1,4 @@
-<span style='font-family: Calibri'>
+<span style='font-family: Calibri serif'>
 
 ## 1 - Definitions and Direct Proofs
 
@@ -18,7 +18,7 @@ This is a point of confusion for a lot of people. Problems that ask you to prove
 
 ---
 
-<span style='font-family: Calibri'>
+<span style='font-family: Calibri serif'>
 
 ### An example
 

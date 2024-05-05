@@ -1,4 +1,4 @@
-<span style='font-family: Calibri'>
+<span style='font-family: Calibri serif'>
 
 ## 4 - Contrapositives
 
@@ -16,7 +16,7 @@ So we'll do the next best thing - look at a broad classification of them. And th
 
 ---
 
-<span style='font-family: Calibri;'>
+<span style='font-family: Calibri serif;'>
 
 ### A little exposition
 
@@ -44,7 +44,7 @@ Thus the statements $p \implies q$ and $\neg p \vee q$ imply each other and are 
 
 ---
 
-<span style='font-family: Calibri;'>
+<span style='font-family: Calibri serif;'>
 
 ### What is a contrapositive?
 

@@ -1,4 +1,4 @@
-<span style='font-family: Calibri'>
+<span style='font-family: Calibri serif'>
 
 ## 3 - 'If and only if' statements
 

@@ -1,4 +1,4 @@
-<span style='font-family: Calibri'>
+<span style='font-family: Calibri serif'>
 
 ## 2 - More on Definitions and Direct Proofs
 
@@ -16,7 +16,7 @@ Other than that, we will have a look at another proof, one you may be familiar w
 
 ---
 
-<span style='font-family: Calibri'>
+<span style='font-family: Calibri serif'>
 
 ### A revisit to squaring numbers
 
@@ -36,7 +36,7 @@ You have to pay attention to these small things. I'll try to point out as many a
 
 ---
 
-<span style='font-family: Calibri'>
+<span style='font-family: Calibri serif'>
 
 ### Sum of sequences
 

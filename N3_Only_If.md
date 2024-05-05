@@ -8,7 +8,7 @@
 
 <span style='font-family: Bahnschrift'>
 
-This doc will be less analysing a proof, more talking about a class of problems and a brief glance into mathematical logic.
+This discussion will be less analysing a proof, more talking about a class of problems and a brief glance into mathematical logic.
 
 ---
 
@@ -55,9 +55,9 @@ In case of logical equivalences, both conditions are sufficient and necessary fo
 
 ---
 
-This was content you should otherwise be familiar with. I put this in to get you into gear for the next doc, where we will look at an if and only if proof with a new proving technique.
+This was content you should otherwise be familiar with. I put this in to get you into gear for the next discussion, where we will look at a new proving technique.
 
-And I'll do something weird - I'll "prove" a proving technique, but without maki*ng it complicated.
+And I'll do something weird - I'll "prove" a proving technique, but without making it complicated.
 
 Make sure you know most of what's going on here. If not, take a refresher on logic. My personal favorite suggestion is the first chapter from Goodaire and Parmenter's text, *Discrete Mathematics with Graph Theory*.
 

@@ -73,7 +73,7 @@ What's left is step 5. You would very often see proofs omit this step and just s
 
 ---
 
-The overarching goal of this doc specifically was to introduce to you how definitions work and the overall structure of direct proofs. There are a lot more logical nuances to this discussion, but I'm omitting them at the risk of infodumping. We will cover them slowly over these notes, but I'm not guaranteeing self-sufficiency.
+The overarching goal of this discussion specifically was to introduce to you how definitions work and the overall structure of direct proofs. There are a lot more logical nuances to this discussion, but I'm omitting them at the risk of infodumping. We will cover them slowly over these notes, but I'm not guaranteeing self-sufficiency.
 
 Read the simple 5 line proof again and again and really try to grasp what is going on. In the next doc, I'll point out a logical nuance in this proof and tackle a canonical example in real analysis - that the limit of a sum sequence is the sum of individual limits.
 

@@ -118,5 +118,5 @@ Hence for $n \geq N$, the defining inequality holds. Thus $\{a_n + b_n\} \righta
 
 Go through the proof. Understand where steps 1 - 5 show up (it may not be in order). If I'm introducing a new variable, understand where it's coming from. Try to understand why $\dfrac \epsilon 2$ is the natural choice and not, say, $1$ and $\epsilon - 1$.
 
-Once you're ready, move on to the next doc.
+Once you're ready, move on to the next discussion.
 </span>

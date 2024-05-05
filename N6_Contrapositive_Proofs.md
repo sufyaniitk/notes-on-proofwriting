@@ -55,7 +55,7 @@ The main takeaway here is not the proof itself, but rather how an iff proof work
 
 Further note the importance of assumptions. If I had assumed the fundamental theorem, I would be done in a matter of 2 lines - since 2 is prime, the $2|n^2$ means either $2|n$ or $2|n$  (breaking $n^2$ into $n$ and $n$). However, under Euclid's Lemma, I had to take the indirect route.
 
-Finally, if it is the case hat some bi-implication $p \iff q$ holds, and even if we are able to prove it, we gain **absolutely no information** about $p$ or about $q$. We only gain that they are either both true or both false, but we do not gain which.
+Finally, if it is the case that some bi-implication $p \iff q$ holds, and even if we are able to prove it, we gain **absolutely no information** about $p$ or about $q$. We only gain that they are either both true or both false, but we do not gain which.
 
 More on this in the next.
 

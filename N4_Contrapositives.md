@@ -50,7 +50,7 @@ Thus the statements $p \implies q$ and $\neg p \vee q$ imply each other and are 
 
 </span>
 
-If you think about it, it makes sense. The first statement says if $p$ happens, $q$ must happen. The other says if $\neg p$ *doesn't* happen, $q$ must happen. In formal logic, $p$ happening and $\neg p$ not happening are **the** same thing. Thus these statements must be equivalent.
+Think about what we just concluded. The first statement says if $p$ happens, $q$ must happen. The other says if $\neg p$ *doesn't* happen, $q$ must happen. In formal logic, $p$ happening and $\neg p$ not happening are **the** same thing. Thus these statements must be equivalent.
 
 What this allows me to do is make a clever substitution. Start with $(\neg p \vee q) \iff (p \implies q)$
 

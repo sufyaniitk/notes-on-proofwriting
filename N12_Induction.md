@@ -38,7 +38,7 @@ Under the induction hypothesis, the RHS sum evaluates to $\frac {m(m+1)}{2}$. Th
 
 Thus the required implication holds. $\square$
 
-This is an example of using a recurrence (ie $P(m) \implies P(m+1)$) alongside a base case to complete the proof.
+This is an example of using a recurrence (ie $P(m) \implies P(m+1)$ ) alongside a base case to complete the proof.
 
 ---
 
@@ -54,7 +54,7 @@ Now let's have a look at strong induction.
 
 By induction hypothesis, $a$ and $b$ are themselves products of primes. Thus $(m+1)$ is a product of those primes and we're done. $\square$
 
-This is an example of the "building block" approach. I did not exploit the truth of the statement at $m$. I just used some arbitrary numbers smaller than $m+1$ (not even knowing which one) as "building blocks" for my proof.
+This is an example of the "building block" approach. I did not exploit the truth of the statement at $m$. I just used some arbitrary numbers smaller than $m+1$ (not even knowing which ones) as "building blocks" for my proof.
 
 ---
 
@@ -90,7 +90,7 @@ Finally consider the subcase $m < 0$.
 
 (Completion) Consider $k - 1$. If $k = 2n$, then $k - 1$ = $2(n-1) + 1$. If $k = 2n + 1$, then $k - 1 = 2n$. Thus Euclid's Lemma holds for $k-1$ $\square$
 
-And that does it. It is impossible for us to hav left out any integer (think about why this is true). I list this as an exotic example because of the subcase division and the two base cases.
+And that does it. It is impossible for us to have left out any integer (think about why this is true). I list this as an exotic example because of the subcase division and the two base cases.
 
 ---
 
@@ -155,7 +155,7 @@ $$
 The LHS simplifies to $\dfrac{a_1 + \dots + a_{m-1}}{m-1}$. Thus 
 
 $$
-(\dfrac{a_1 + \dots + a_{m-1}}{m-1})^m = a_1\dots a_{m-1}\cdot(\frac{a_1+\dots+a_{m-1}}{m-1})
+(\dfrac{a_1 + \dots + a_{m-1}}{m-1})^m \geq a_1\dots a_{m-1}\cdot(\frac{a_1+\dots+a_{m-1}}{m-1})
 $$
 
 Removing one copy of the fraction from either side,

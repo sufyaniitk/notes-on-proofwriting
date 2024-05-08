@@ -10,7 +10,7 @@
 
 The final proof technique I want to demonstrate is proof by induction. Induction is useful when you want to show some statement $P$ holds for all natural numbers $n \geq n_0$ for some fixed $n_0$.
 
-Examples of these statements are the Fundamental Theorem of Arithmetic, $\sum _{k=1}^{n} k = \dfrac {n(n+1)}2$, the binomial theorem, $\cos nx$ is an $n$ degree polynomial in $\cos x$, the $\text{AM-GM}$ inequality etc.
+Examples of these statements are the Fundamental Theorem of Arithmetic, $\sum _{k=1}{n} k = \dfrac {n(n+1)}2$, the binomial theorem, $\cos nx$ is an $n$ degree polynomial in $\cos x$, the $\text{AM-GM}$ inequality etc.
 
 The idea is to establish the truth for *some* $n \in \mathbb N$ and use it to establish truth for other $n$ using recurrences, breaking larger numbers into smaller numbers, etc.
 

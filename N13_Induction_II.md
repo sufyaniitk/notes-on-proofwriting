@@ -13,7 +13,7 @@ Not so much 'mistakes' as it is an example of the kind of mistake I pointed out 
 
 <span style='font-family: Calibri serif;'>
 
-### All horses are the same color
+#### All horses are the same color
 
 </span>
 

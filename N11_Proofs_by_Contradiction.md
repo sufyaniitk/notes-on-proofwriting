@@ -38,9 +38,9 @@ Let's add to our list of assumptions (and facts) that `for every rational number
 
 Now look at our chain of arguments.
 
-1. $\sqrt 2 \in \mathbb Q \implies \exist p, q \in \mathbb Z^+, p^2 = 2q^2$
+1. $\sqrt 2 \in \mathbb Q \implies \exists p, q \in \mathbb Z^+, p^2 = 2q^2$
 
-1. $\exist p, q \in \mathbb Z^+, p^2 = 2q^2 \implies \exist p', q' \in \mathbb Z^+, p'^2 = 2q'^2, \gcd(p', q') = 1$
+1. $\exists p, q \in \mathbb Z^+, p^2 = 2q^2 \implies \exists p', q' \in \mathbb Z^+, p'^2 = 2q'^2, \gcd(p', q') = 1$
 
 1. $p'^2 = 2q'^2 \implies \gcd(p', q') = 2$
 

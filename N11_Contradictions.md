@@ -72,7 +72,7 @@ Similarly suppose $b \notin B$ ie $b \notin f(b)$. But then by definition of $B$
 
 And so, $b \in B \iff b \notin B$
 
-We have thus obtained a contradiction. But what exactly is it we're contradicting? One possible answer is the existence of $B$, but $B$ is a perfectly well defined set (see Axiom of Specification)
+We have thus obtained a contradiction. But what exactly is it we're contradicting? One possible answer is the existence of $B$, but $B$ is a perfectly well defined set (see [Axiom of Specification](https://en.wikipedia.org/wiki/Axiom_schema_of_specification))
 
 Thus the only candidate is the existence of $b$. If $b$ exists, we get a contradiction. Thus $b$ cannot exist. But $b$ was by definition the pre-image of $B$. 
 

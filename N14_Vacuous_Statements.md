@@ -25,7 +25,7 @@ Now you could argue that one cannot produce a blue ball either. But get this, my
 Vacuous statements have the form $\forall \space r, P(r) \implies Q(r)$. The difference is that $r$ either comes from an empty collection, or for every $r$, $\neg P(r)$ holds. (Recall the equivalent of an implication).
 
 Have some more examples
-1. Every even injective function from $\mathbb R$ to itself is contiuous
+1. Every even injective function from $\mathbb R$ to itself is continuous
 
 1. Every skew-symmetric nonzero $1\times 1$ matrix is invertible.
 

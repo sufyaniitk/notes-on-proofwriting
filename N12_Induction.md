@@ -90,7 +90,7 @@ Finally consider the subcase $m < 0$.
 
 (Completion) Consider $k - 1$. If $k = 2n$, then $k - 1$ = $2(n-1) + 1$. If $k = 2n + 1$, then $k - 1 = 2n$. Thus Euclid's Lemma holds for $k-1$ $\square$
 
-And that does it. It is impossible for us to hav left out any integer (think about why this is true).
+And that does it. It is impossible for us to hav left out any integer (think about why this is true). I list this as an exotic example because of the subcase division and the two base cases.
 
 ---
 
@@ -106,7 +106,7 @@ $$
 \dfrac{a_1 + a_2 + \dots + a_n}{n} \geq {^n} \sqrt{a_1a_2\dots a_n}
 $$
 
-with equiality iff $a_1 = a_2 = \dots = a_n$. Again, I will only show the inequality.
+with equality iff $a_1 = a_2 = \dots = a_n$. Again, I will only show the inequality.
 
 We proceed by induction on the number of variables. But this will be unlike anything you've seen so far.
 
@@ -128,7 +128,7 @@ $$
 \dfrac{a_{m+1}+\dots + a_{2m}}{m} \geq {^m}\sqrt{a_{m+1}\dots a_{2m}}
 $$
 
-Note the LHS. Those are still positive reals. And the inequality holds for 2 variables (IH). Using it,
+Note the LHS of both inequalities. Those are still positive reals. And the inequality holds for 2 variables (IH). Using it,
 
 $$
 \dfrac{\dfrac{a_1 + \dots + a_m}{m} + \dfrac{a_{m+1}+\dots + a_{2m}}{m}}{2} \geq \sqrt{{^m}\sqrt{a_1\dots a_m}\cdot {^m}\sqrt{a_{m+1}\dots a_{2m}}}

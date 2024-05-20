@@ -4,8 +4,6 @@
 
 </span>
 
----
-
 <span style='font-family: Bahnschrift;'>
 
 <!--irrationality of sqrt 2,  Cantor's thm-->
@@ -42,7 +40,7 @@ Now look at our chain of arguments.
 
 1. $\exists p, q \in \mathbb Z^+, p^2 = 2q^2 \implies \exists p', q' \in \mathbb Z^+, p'^2 = 2q'^2, \gcd(p', q') = 1$
 
-1. $p'^2 = 2q'^2 \implies \gcd(p', q') = 2$
+1. $p'^2 = 2q'^2 \implies \gcd(p', q') \neq 1$
 
 We have established 3. is true. Due to 3., the consequent of 2. is false, i.e., the consequent of 2 is contradicted. This is what we pointed out.
 
@@ -52,7 +50,7 @@ So between our original contradiction (existence of simplest form) and what we w
 
 Let me rephrase. Here, we do not need to show that $\sqrt 2$ is irrational directly. I observe that every rational number has a simplest form. Thus if I show that $\sqrt 2$ fails to have a simplest form, it couldn't be rational.
 
-To some extent, all proofs abuse the contrapositive. If we are able to show the contradiction in its entirety (i.e. if we could've contradicted $\sqrt 2 \in \mathbb Q$ directly), it would've just been a proof by contrapositive. Here, we contradict a necessary condition. This is essentially the distinction between a proof by contrapositive and one by contradiction.
+To some extent, all proofs by contradiction abuse the contrapositive. If we are able to show the contradiction in its entirety (i.e. if we could've contradicted $\sqrt 2 \in \mathbb Q$ directly), it would've just been a proof by contrapositive. Here, we contradict a necessary condition. This is essentially the distinction between a proof by contrapositive and a proof by contradiction.
 
 ---
 

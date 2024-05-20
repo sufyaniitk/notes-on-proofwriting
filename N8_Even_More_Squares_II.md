@@ -4,8 +4,6 @@
 
 </span>
 
----
-
 <span style='font-family: Bahnschrift;'>
 
 I want to take a moment to emphasize the importance of recognising antecedents and consequents in compound statements.
@@ -44,7 +42,11 @@ And done. Now for the opposite direction.
 
 ---
 
-$(\leftarrow)$ Consider a triangle $DEF$ that satisfies $e^2 = d^2 + f^2$. What I will do here is borrow from Euclidean Geometry the side length formulae $d = 2R\sin\delta$, $f = 2R\sin\phi$, $e = 2R\sin(\pi - (\delta + \phi)) = 2R\sin(\delta + \phi)$
+$(\leftarrow)$ Consider a triangle $DEF$ that satisfies $e^2 = d^2 + f^2$. 
+
+![](/files/N8_2.png)
+
+What I will do here is borrow from Euclidean Geometry the side length formulae $d = 2R\sin\delta$, $f = 2R\sin\phi$, $e = 2R\sin(\pi - (\delta + \phi)) = 2R\sin(\delta + \phi)$
 
 Knowing $e^2 = d^2 + f^2$, substituting back in,
 
@@ -52,7 +54,7 @@ $$
 4R^2\sin^2\delta + 4R^2\sin^2\phi = 4R^2\sin^2(\delta + \phi)
 $$
 
-some cacellations and an expansion
+some cancellations and an expansion
 
 $$
 \sin^2\delta + \sin^2\phi = \sin^2\delta\cos^2\phi+\sin^2\phi\cos^2\delta +2\sin\delta\sin\phi\cos\delta\cos\phi
@@ -60,7 +62,7 @@ $$
 
 What I'm about to do here (and its explanation later) could turn mind-bending, but try to follow through.
 
-Remember, I'm trying to prove that a the square of the longest length is the sum of the squares of the other two sides iff the triangle is right-angled. I've already proved the right side implication and am currently proving the left one.
+Remember, I'm trying to prove that the square of the longest length is the sum of the squares of the other two sides iff the triangle is right-angled. I've already proven the right side implication and am currently proving the left one.
 
 Now, I'll move some terms around, 
 
@@ -106,7 +108,7 @@ Then when I get to the converse, I want to prove $q \implies p$. Thus I assume $
 
 ---
 
-You should have npticed there's a bunch of implications and equivalences surrounding the Pythagorean Theorem. So let's have a look at the whole picture.
+You should have noticed there's a bunch of implications and equivalences surrounding the Pythagorean Theorem. So let's have a look at the whole picture.
 
 Let $r$ denote the statement `a given triangle is right angled`.
 

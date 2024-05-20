@@ -4,8 +4,6 @@
 
 </span>
 
----
-
 <span style='font-family: Bahnschrift;'>
 
 Alright, here's the deal. After all of that development, for the final discussion or two, I'll just throw examples and highlight some points of emphasis.
@@ -30,9 +28,9 @@ Thus, $|\omega_0M|^2 + |M\omega_2|^2 = a^2 = |M\omega_1|^2 + |\omega_0M|^2$. Thu
 
 
 Points of emphasis -
-1. We used the Pythagorean Theorem and $SSS$ criterion in our proof, therefore, by nature, *they are part of our hypothesis*. Within any set of predefined axioms, theorems (or statements that have already been shown to be true) can be used no problem. We explored this in the last discussion.
+1. We used the Pythagorean Theorem and $SSS$ criterion in our proof, therefore, by nature, *they are part of our hypothesis*. Within any set of predefined axioms; theorems (or statements that have already been shown to be true) can be used no problem. We explored this in the last discussion.
 
-1. We can't just say *without loss in/of generality* (oft abbreviated $\text{WLOG}$ or $\text{WLG}$) and move on. One has to specify why your specific case covers all the general cases.
+1. We can't just say *without loss in/of generality* (oft abbreviated $\text{WLOG}$ or $\text{WLG}$) and move on. One has to specify why their chosen specific case covers all the general cases.
     
     - In this case, our specific choice implies all possible cases because if some other pair had equal lengths, a simple relabeling, and reproducing the given proof completes the proof. You have to be sure that the proof you're giving for the specific case can be reproduced for other cases.
 
@@ -72,7 +70,7 @@ In our example, rhombuses are the counterexample to `all equilateral 4-gons are 
 
 ---
 
-The last section, I'm trying to point you to the simple fact that the nagation of a statement $\forall q, P(q)$ is $\exists q, \neg P (q)$. i.e., negating "for all $q$, $P(q)$ holds" gives "there exists a $q$ such that $P(q)$ is false".
+The last section, I'm trying to point you to the simple fact that the negation of a statement $\forall q, P(q)$ is $\exists q, \neg P (q)$. i.e., negating "for all $q$, $P(q)$ holds" gives "there exists a $q$ such that $P(q)$ is false".
 
 Thus, existence of a $q$ for which $P(q)$ is false *disproves* the statement "for every $q$, $P(q)$ holds". Similarly, if for every $q$ you can show $P(q)$ holds, then you have just disproved "there is a $q$ for which $\neg P(q)$ is true".
 

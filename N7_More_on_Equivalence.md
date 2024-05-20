@@ -4,8 +4,6 @@
 
 </span>
 
----
-
 <span style='font-family: Bahnschrift;'>
 
 We ended the last discussion with something that is nothing short of diabolical. Proving statements are equivalent does not necessarily mean they hold.

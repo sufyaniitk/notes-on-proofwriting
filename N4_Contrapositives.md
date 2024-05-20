@@ -4,8 +4,6 @@
 
 </span>
 
----
-
 <span style='font-family: Bahnschrift'>
 
 It is about time we discuss another proving technique. Most problems you encounter will not be as straightforward as the ones we saw in the last 2 discussions. 

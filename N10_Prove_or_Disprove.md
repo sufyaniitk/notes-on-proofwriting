@@ -4,8 +4,6 @@
 
 </span>
 
----
-
 <span style='font-family: Bahnschrift;'>
 
 Towards the end of the last discussion we explored counterexamples. I want to now shed some more light on 'Prove or disprove' problems. It is unlilkely that I will put in a detailed example, because the $n \geq 3$ demonstrated everything very well. This discussion will be a bit more abstract.

@@ -4,7 +4,6 @@
 
 </span>
 
----
 <span style='font-family: Bahnschrift;'>
 
 Not so much 'mistakes' as it is an example of the kind of mistake I pointed out at the end of the last discussion. Let's have a look.
@@ -29,9 +28,10 @@ Let $P(n)$ denote the statement: `given a collection of n horses, all horses in 
 
 Clearly, $a_m$ and $a_{m+1}$ thus have the same color. $\square$
 
----
 
 Where did I go wrong? Well, my process relies on removing one horse from the set and considering the colors of the remaining horses. However, this process *fails* when proving $P(2)$ from $P(1)$ because when you remove just the one horse, there's nothing left.
+
+---
 
 Let's have a look at one final example for induction.
 
@@ -41,9 +41,11 @@ Let's have a look at one final example for induction.
 
 </span>
 
-Suppose you set out to show that $\sum_{k=1}^{n} = \dfrac{n^2+n+2}{2}$. If you checked that $f(n+1) = f(n) + (n+1)$, you would find that equality holds and make your conclusion.
+Suppose you set out to show that $\sum_{k=1}^{n} k = \dfrac{n^2+n+2}{2}$. If you checked that $f(n+1) = f(n) + (n+1)$, you would find that equality holds and make your conclusion.
 
 Where you would go wrong, however, is checking the base case. You never light your string of crackers on fire, you just check that burning one will ignite the next.
+
+---
 
 Light the fire. *Check the base case*. That's all.
 

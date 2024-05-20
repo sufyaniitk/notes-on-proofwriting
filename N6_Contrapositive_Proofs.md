@@ -4,8 +4,6 @@
 
 </span>
 
----
-
 <span style='font-family: Bahnschrift;'>
 
 I am unsure how much this discussion warrants a document on its own, but here we are.

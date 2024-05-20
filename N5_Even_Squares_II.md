@@ -1,9 +1,8 @@
 <span style='font-family: Calibri serif;'>
 
 ## 5 - A Revisit to Even Squares
-</span>
 
----
+</span>
 
 <span style='font-family: Bahnschrift;'>
 
@@ -49,7 +48,7 @@ Note the appearance of a new variable $n$ which was not originally stated in the
 
 A correct, more sound statement would be **Q. Given an integer $n$, show that if $n$ is even, then $n^2$ is even**
 
-Both $p$ and $q$ are *laid out for you*. $p$ here is `an integer n is even` and $q$ is `n^2 is even`. **This will not always be the case**. Branches of mathematics, such as the arithmetic of integers, are too ubiquitous for detail to be necessary. Similarly, you may find ill-stated problems in the middle chapters of some textbooks. But, it is expected of you to extract the $p$s and the $q$s correctly when that happens, because by that time, the author expects you to have developed familiarity with the subject. Discussion for later.
+Both $p$ and $q$ are *laid out for you*. $p$ here is `an integer n is even` and $q$ is `n^2 is even`. **This will not always be the case**. Branches of mathematics, such as the arithmetic of integers, are too ubiquitous for detail to be necessary. Similarly, you may find ill-stated problems in the middle chapters of some textbooks. But, it is expected of you to extract the $p$ and the $q$ correctly when that happens, because by that time, the author expects you to have developed familiarity with the subject. Discussion for later.
 
 ---
 
@@ -73,6 +72,6 @@ The antecedent here would be `an integer of the form n^2 is even` and the conseq
 
 ---
 
-I advice you to read through the previous section again and internalise this notion of extracting mathematical statements, even from ill-posed problems. I'll try to be as precise as possible from now on, but when I'm not, its your duty to pick up the pieces.
+I advice you to read through the previous section again and internalise this notion of extracting mathematical statements, even from ill-posed problems. I'll try to be as precise as possible from now on, but when I'm not, it's your duty to pick up the pieces.
 
 </span>

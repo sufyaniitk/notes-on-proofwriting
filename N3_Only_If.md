@@ -4,8 +4,6 @@
 
 </span>
 
----
-
 <span style='font-family: Bahnschrift'>
 
 This discussion will be less analysing a proof, more talking about a class of problems and a brief glance into mathematical logic.

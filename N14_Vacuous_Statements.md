@@ -4,8 +4,6 @@
 
 </span>
 
----
-
 <span style='font-family: Bahnschrift;'>
 
 I would like to dedicate this final discussion to vacuous statements - statements that are true *by default* - or by lack of counterexamples.

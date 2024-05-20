@@ -4,8 +4,6 @@
 
 </span>
 
----
-
 <span style='font-family: Bahnschrift;'>
 
 In the previous discussion we saw a proof for the fact that the square of an even number is even. This "obvious" fact was proven with the help of the definition of an even number - a gateway from our understanding to precise, rigorous statements.

@@ -4,8 +4,6 @@
 
 </span>
 
----
-
 <span style='font-family: Bahnschrift;'>
 
 The final proof technique I want to demonstrate is proof by induction. Induction is useful when you want to show some statement $P$ holds for all natural numbers $n \geq n_0$ for some fixed $n_0$.
@@ -110,7 +108,7 @@ with equality iff $a_1 = a_2 = \dots = a_n$. Again, I will only show the inequal
 
 We proceed by induction on the number of variables. But this will be unlike anything you've seen so far.
 
-(Base Case) For $n = 1$ the inequallity is trivial.
+(Base Case) For $n = 1$ the inequality is trivial.
 
 (Induction Hypothesis) Suppose that given *any* $k$ positive reals, $1 \leq k \leq m$ , the inequality holds.
 
